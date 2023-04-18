@@ -1,0 +1,2 @@
+# .github
+ SpotSnel - Spot On!

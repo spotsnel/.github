@@ -6,4 +6,5 @@
 
 ## Sub-organizations
 
-  * [spotsnel-gaming](https://github.com/spotsnel-gaming)
+  * [spotsnel-fedora](https://github.com/spotsnel-fedora) - Fedora related projects
+  * [spotsnel-gaming](https://github.com/spotsnel-gaming) - Gaming related projects

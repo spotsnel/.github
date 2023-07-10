@@ -4,6 +4,15 @@
 
 ---
 
+
+## Projects
+
+  * [openwrt-cloudflared](https://github.com/spotsnel/openwrt-cloudflared)
+  * [openwrt-tailscale](https://github.com/spotsnel/openwrt-tailscale)
+
+---
+
+
 ## Sub-organizations
 
   * [spotsnel-fedora](https://github.com/spotsnel-fedora) - Fedora related projects
